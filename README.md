@@ -43,7 +43,7 @@ An interactive Tableau-built dashboard designed to uncover key HR insights using
 ### 2. Version Control (Git & GitHub)
 - Initialized a Git repo and committed:
   - `HR_Analytics_Dashboard.twbx` – packaged workbook with data
-  - `assets/hr_dashboard_screenshot.png` – high-res static preview
+  - `hr_dashboard_screenshot.png` – high-res static preview
  ---
 
 ## 📈 Key Insights from the Dashboard
