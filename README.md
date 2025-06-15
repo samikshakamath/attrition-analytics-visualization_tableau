@@ -7,7 +7,7 @@ An interactive Tableau-built dashboard designed to uncover key HR insights using
 
 ## 🛠️ Business Use Case
 
-As an HR Analytics Consultant, I built this Tableau dashboard to help gain strategic visibility into workforce trends. By integrating employee‑level data and leveraging interactive visualizations, this enabled HR leaders to:
+As an HR Analytics Consultant for this project, this Tableau dashboard to help gain strategic visibility into workforce trends. By integrating employee‑level data and leveraging interactive visualizations, this enabled HR leaders to:
 
 - **Diagnose attrition hotspots**—identifying gender imbalances, high‑turnover departments (like R&D), and mid‑career decline (ages 35–44).
 - **Understand engagement gaps**—especially in HR and healthcare roles—and align retention programs for at‑risk groups.
