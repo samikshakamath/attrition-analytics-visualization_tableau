@@ -5,6 +5,21 @@ An interactive Tableau-built dashboard designed to uncover key HR insights using
 - **Author**: Samiksha Kamath  
 - **Project Date**: October 28, 2024
 
+## 🛠️ Business Use Case
+
+As an HR Analytics Consultant, I built this Tableau dashboard to help gain strategic visibility into workforce trends. By integrating employee‑level data and leveraging interactive visualizations, this enabled HR leaders to:
+
+- **Diagnose attrition hotspots**—identifying gender imbalances, high‑turnover departments (like R&D), and mid‑career decline (ages 35–44).
+- **Understand engagement gaps**—especially in HR and healthcare roles—and align retention programs for at‑risk groups.
+- **Tailor talent strategies**—customizing leadership development, onboarding, and wellness initiatives based on age, education, and satisfaction insights.
+- **Drive data‑informed decisions**—supporting ongoing workforce planning by spotlighting strengths (e.g., high engagement in science roles) and areas for improvement.
+
+This dashboard empowers business stakeholders to allocate resources, refine policies, and reduce turnover costs through targeted interventions and continuous monitoring.
+
+## ❓ What Is Attrition?
+
+Attrition in HR refers to the gradual reduction of an organization's workforce when employees leave voluntarily (e.g., resignations, retirements) and **are not replaced**. Unlike turnover, which includes exits followed by hiring replacements, attrition leads to a net decrease in staff numbers 
+
 
 ## 🧭 Dashboard Features
 
